@@ -1,6 +1,6 @@
 # Algorithm-Design-Analysis
 
-1. Project:
+1. Projects:
 
 Fisher goes fishing, he wants to get the most possible profit in the least amount of time, he tries two approaches:
 
