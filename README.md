@@ -2,9 +2,9 @@
 
 1. Projects:
 
-PowerSet.py - Calculates and returns all possible subsets (the power set) by applying the backtracking approach.
+PowerSet.py - Calculates and returns all possible subsets (the power set) by applying the backtracking approach. O(2^n)
 
-RobbersAlgorithm.py - Wants to find the highest possible value combination within an array, with a rule: you can't add values from elements that are next to each other. 
+RobbersAlgorithm.py - Wants to find the highest possible value combination within an array, with a rule: you can't add values from elements that are next to each other. O(n)
 
         - The program traverses through an array.
 
